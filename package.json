@@ -8,7 +8,7 @@
   ],
   "dependencies": {
     "extend-object": "^1.0.0",
-    "filetransfer": "https://github.com/markr79/jingle-filetransfer-session",
+    "filetransfer": "https://github.com/markr79/filetransfer",
     "jingle-session": "^1.0.0",
     "rtcpeerconnection": "^3.0.0"
   },
